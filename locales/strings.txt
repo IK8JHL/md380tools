@@ -10,21 +10,26 @@ hu Semmi Prog.
 fr Non Program
 de Kein Program
 es Sin Programar
+it Sprogrammato
 
 # 0xc53c0 28 13 Delete Entry?
 en Delete Entry?
 de Eintrag entf?
 es Eliminar reg?
+it Eliminare ?
 
 # 0xc53dc 26 12 Radio Enable
 en Radio Enable
 de Geraet aktiv.
 es Radio activa
+it Radio Attiva
 
 # 0xc53f8 28 13 Radio Disable
 en Radio Disable
 de Geraet deaktiv
 es Radio desact.
+it Disabilitata
+
 # 0xc5414 26 12 Edit Number:
 en Edit Number:
 de ID aendern:
@@ -34,88 +39,107 @@ es Editar numero:
 en Text Message
 de Text Nachricht
 es Mensaje de Texto
+it Messag.di Testo
 
 # 0xc544c 26 12 Message Send
 en Message Send
 de SMS gesendet
 es Mensaje enviado
+it Messag.inviato
 
 # 0xc5468 26 12 Radio Check:
 en Radio Check:
 de Geraetecheck
 es Chequeo Radio
+it Radio Check
 
 # 0xc5484 26 12 Target Radio
 en Target Radio
 de Ziel-Geraet
 es Radio Destino
+it Destinazione
 
 # 0xc54a0 28 13 Not Available
 en Not Available
 de Nicht moeglich
 es No Disponible
+it Indisponibile
 
 # 0xc54bc 28 13 Radio Enable:
 # 0xc54d8 28 13 Firmware Ver.
 en Firmware Ver.
 de Firmware Vers
 es Version FW
+it Versione FW
 
 # 0xc54f4 28 13 Batter Info
 en Batter Info
 de BatterieInf
 es Info Bateria
+it Info Battery
 
 # 0xc5510 28 13 Private Alert
 es Alert Privada
+it AvvisoPrivata
 
 # 0xc552c 26 12 Enter Number
 es Intro Numero
+it Digita Numero
 
 # 0xc5548 26 12 Radio Number
 en Radio Number
 de Geraete-ID
 es Numero Radio
+it Numero Radio
 
 
 # 0xc5564 26 12 Tones/Alerts
 en Tones/Alerts
 de Hinweistoene
 es Tono/Alertas
+it Toni/Avvisi
 
 # 0xc5580 26 12 Intro Screen
 en Intro Screen
 de Startnachricht
 es Pant. Inicio
+it Intro.Schermo
 
 # 0xc559c 28 13 LED Indicator
 en LED Indicator
 de LED Anzeige
 es Indicador LED
+it Indicator.LED
 
 # 0xc55b8 26 12 Site Roaming
 es Roaming Local
+it Roaming Local
 
 # 0xc55d4 26 12 Call Ringers
 en Call Ringers
 de Ruftoene
 es Tono Llamada
+it Tono Chiamata
 
 # 0xc55f0 26 12 Keypad Tones
 en Keypad Tones
 de Tastentoene
 es Tono Teclas
+it Tono Tasti
 
 # 0xc560c 28 13 Volume Offset
 es Comp. Volumen
+it Volume
 
 # 0xc5628 26 12 New Password
 es Nueva Password
+it Nuova Password
 
 # 0xc5644 26 12 Eight Digits
 en Eight Digits
 de Acht Ziffern
 es Ocho Digitos
+it Otto Digit
 
 # 0xc5660 26 12 Do Not Match
 es No coinciden
