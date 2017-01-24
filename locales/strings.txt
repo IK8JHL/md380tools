@@ -10,35 +10,43 @@ hu Semmi Prog.
 fr Non Program
 de Kein Program
 es Sin Programar
+it Sprogrammato
 
 # 0xc53c0 28 13 Delete Entry?
 en Delete Entry?
 de Eintrag entf?
 es Eliminar reg?
+it Eliminare ?
 
 # 0xc53dc 26 12 Radio Enable
 en Radio Enable
 de Geraet aktiv.
 es Radio activa
+it Radio Attiva
 
 # 0xc53f8 28 13 Radio Disable
 en Radio Disable
 de Geraet deaktiv
 es Radio desact.
+it Disattivata
+
 # 0xc5414 26 12 Edit Number:
 en Edit Number:
 de ID aendern:
 es Editar numero:
+it Edita numero :
 
 # 0xc5430 26 12 Text Message
 en Text Message
 de Text Nachricht
 es Mensaje de Texto
+it Mess.di testo
 
 # 0xc544c 26 12 Message Send
 en Message Send
 de SMS gesendet
 es Mensaje enviado
+it Mess. Inviato
 
 # 0xc5468 26 12 Radio Check:
 en Radio Check:
@@ -100,11 +108,13 @@ es Roaming Local
 en Call Ringers
 de Ruftoene
 es Tono Llamada
+it Tono Chiamat
 
 # 0xc55f0 26 12 Keypad Tones
 en Keypad Tones
 de Tastentoene
 es Tono Teclas
+it Tono tasti
 
 # 0xc560c 28 13 Volume Offset
 es Comp. Volumen
