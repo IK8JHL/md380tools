@@ -71,7 +71,7 @@ it Indisponibil
 en Firmware Ver.
 de Firmware Vers
 es Version FW
-it Vers.Firmware
+it Ver. Firmware
 
 # 0xc54f4 28 13 Batter Info
 en Batter Info
@@ -113,12 +113,12 @@ it Scherm.Avvio
 en LED Indicator
 de LED Anzeige
 es Indicador LED
-it Indicator.LED
+it LED Indicator
 
 # 0xc55b8 26 12 Site Roaming
 en Site Roaming
 es Roaming Local
-it Roaming Local
+it Sito Roaming 
 
 # 0xc55d4 26 12 Call Ringers
 en Call Ringers
@@ -135,10 +135,12 @@ it Tono tasti
 # 0xc560c 28 13 Volume Offset
 en Volume Offset
 es Comp. Volumen
-it Volume Reg.
+it Volume Offset
 
 # 0xc5628 26 12 New Password
+en New Password
 es Nueva Password
+it NuovaPassword
 
 # 0xc5644 26 12 Eight Digits
 en Eight Digits
@@ -149,7 +151,7 @@ it Otto digit
 # 0xc5660 26 12 Do Not Match
 en Do Not Match
 es No coinciden
-it non coincide
+it Non coincide
 
 # 0xc567c 26 12 Press OK and
 en Press OK and
@@ -177,7 +179,7 @@ it Regola Data
 en Contact List
 de Kontaktliste
 es Lista Contactos
-it Lista Contatti
+it ListaContatti
 
 # 0xc5708 28 13 Outgoing List
 en Outgoing List
@@ -187,7 +189,7 @@ it Lista Usciti
 # 0xc5724 28 13 Answered List
 en Answered List
 es Lista Respondidas
-it Lista Risposte
+it Lista Risposti
 
 # 0xc5740 26 12 Out Of Range
 en Out of Range
@@ -226,11 +228,15 @@ it Numero Canale
 en Repeater Slot
 de RPT Zeitschl.
 es Slot Repetidor
+it Slot Repeater
 
 # 0xc5820 26 25 Digital Radio in USB mode
+it Digital Radio in USB mode
 es Radio Digital en modo USB
+it Radio Digitale modo USB
 
 # 0xc5b58 22 10 PC Program
+en PC Program
 es Programacion PC
 it Programmazion
 
@@ -238,12 +244,13 @@ it Programmazion
 en New Contact
 de Neuer Kontakt
 es Nuevo contacto
-it Nuovo Contat.
+it NuovoContatt.
 
 # 0xc5b88 24 11 Manual Dial
 en Manual Dial
 de Manuelle Wahl
 es Marcado manual
+it Dial manuale
 
 
 # 0xc5ba0 22 10 Call Alert
@@ -258,6 +265,7 @@ es Ver Numero
 it Vedi Numero
 
 # 0xc5bd0 24 11 Edit Number
+en Edit Numeber
 es Editar Numero
 it Edita Numero
 
@@ -289,9 +297,12 @@ it Selez. Tono
 en Select Key
 de Taste ausw
 es Elija Tecla
+it Selez. Tasti
 
 # 0xc5c78 24 11 This Key is
+en This Key is
 es Esta tecla es
+it Questo tasto 
 
 # 0xc5c90 22 10 OverWrite?
 en Overwrite?
@@ -300,6 +311,7 @@ es Sobreescribo?
 it Sovrascrivo?
 
 # 0xc5ca8 22 10 Edit Name:
+en Edit Name
 es Editar Nombre:
 it Edita nome
 
@@ -307,7 +319,7 @@ it Edita nome
 en Quick Text
 de Vorlagetxt
 es Edicion rapida
-it Modifi. rapida
+it Modifi.rapida
 
 # 0xc5cd8 22 10 Sent Items
 en Sent Items
@@ -351,18 +363,23 @@ es Info Radio
 it Info radio
 
 # 0xc5d80 22 10 Add Member
+en Add Member
 es Anadir Miembro
 it Agg. Membro
 
 # 0xc5d98 24 11 Enter Name:
+en Enter Name:
 es Inserte nombre:
-it Ins. Nome
+it Ins. Nome :
 
 # 0xc5db0 22 10 Talkaround
+en Talkaround
 en Talkaround
 it Diretta
 
 # 0xc5dc8 24 11 Keypad Lock
+en Keypad Lock
+it Blocco Tasti
 
 # 0xc5de0 22 10 Cable Type
 en Cable Type
@@ -427,10 +444,12 @@ en Scan on/off
 it Scan on/off
 
 # 0xc5f00 24 11 Missed List
-it Missed List
+en Missed List
 es Lista Perdidas
+it Chiamat.Perse
 
 # 0xc5f18 22 10 Enter Name
+en Enter Name
 es Intro. Nombre
 it Inser. Nome
 
@@ -501,6 +520,7 @@ es Disponible
 it Disponibile
 
 # 0xeda64 18 8 Selected
+en Selected
 es Elegido
 it Selezionato
 
@@ -518,14 +538,26 @@ es Apagar
 it Spegnere
 
 # 0xedab4 18 8 ViewList
+en View List
+it Vedi Lista
+
 # 0xedac8 18 8 Priority
+en Priority1
+it Priorita1
+
 # 0xedadc 20 9 Priority1
+en Priority1
+it Priorita1
+
 # 0xedaf0 20 9 Priority2
+en Priority1
+it Priorita1
+
 # 0xedb04 20 9 Backlight
 en Backlight
 de Beleuchtg
 es Luz Fondo
-it Retroillu
+it Retroill.
 
 # 0xedb18 18 8 Language
 en Language
@@ -546,6 +578,9 @@ es Todos Tonos
 it Tutti i Toni
 
 # 0xedb54 18 8 Escalert
+en Escalert
+it Escalert
+
 # 0xedb68 20 9 Telemetry
 en Telemetry
 de Telemetrie
@@ -565,6 +600,8 @@ es Motorola
 it Motorola
 
 # 0xedba4 18 8 PC/audio
+en PC/audio
+it PC/audio
 
 # 0xedbb8 18 8 Password
 en Password
@@ -579,14 +616,17 @@ es Requerido
 it Richiesto
 
 # 0xedbe0 18 8 Unlocked
+en Answered
 es Desbloqueado
 it Sbloccato
 
 # 0xedbf4 18 8 Answered
+en Answered
 es Respondido
 it Risposto
 
 # 0xedc08 18 8 Outgoing
+en Outgoing
 es Saliente
 it Uscito
 
@@ -597,10 +637,23 @@ es Emergencia
 it Emergenza
 
 # 0xedc30 18 8 Powering
+en Powering
+it Accensione
+
 # 0xedc44 20 9 Source ID
+en source ID
+it sorgente ID
+
 # 0xedc58 20 9 Source ID
+en source ID
+it sorgente ID
+
 # 0xedc6c 18 8 Versions
+en Version
+it Versione
 # 0xedc80 18 8 Disabled
+en Disabled
+it Disabilitato
 # 0xedc94 18 8 Motorola
 en Motorola
 de Motorola
@@ -608,9 +661,16 @@ es Motorola
 it Motorola
 
 # 0xede24 17 16 uC/OS-II TmrLock
-# 0xede38 19 18 uC/OS-II TmrSignal
-# 0xede4c 19 18 AnyRoad Technology
+en uC/OS-II TmrLock
+it uC/OS-II TmrLock
 
+# 0xede38 19 18 uC/OS-II TmrSignal
+en uC/OS-II TmrSignal
+it uC/OS-II TmrSignal
+
+# 0xede4c 19 18 AnyRoad Technology
+en AnyRoad Technology
+it AnyRoad Technology
 
 # 0xee108 16 7 Contact
 en Contact
@@ -631,38 +691,132 @@ es Mensaje
 it Messaggi
 
 # 0xee138 16 7 Cleared
+en Cleared
+it Eliminato
+
 # 0xee148 14 6 Delete
+en Delete
+it Cancella
+
 # 0xee158 16 7 Deleted
+en Deleted
+it Cancellato
 # 0xee168 14 6 Failed
+en Failed 
+it Fallito
+
 # 0xee178 14 6 Delete
+en Delete
+it Cancella
+
 # 0xee188 16 7 CP Ver.
+en CP Ver.
+it Versione CP
+
 # 0xee198 16 7 Forward
+en Forward
+it Inoltrare
 # 0xee1a8 14 6 Resend
+en Resend
+it Reinviare
+
 # 0xee1b8 16 7 Ignore?
+en Ignore?
+it Ignora?
 # 0xee1c8 16 7 Turn On
+en Turn On
+it Accendi
+
 # 0xee1d8 16 7 Current
+en Current
+it Corrente
 # 0xee1e8 16 7 Auto On
+en Auto On
+it Auto On
+
 # 0xee1f8 14 6 Keypad
+en keypad 
+it Tastiera
+
 # 0xee208 14 6 Locked
+en Locked
+it Bloccato
+
 # 0xee218 16 7 English
+en English
+it Inglese
+
 # 0xee228 16 7 Changed
+en Changed
+it Cambiato
+
 # 0xee238 14 6 Missed
+en Missed
+it Perse
+
 # 0xee248 16 7 Invalid
+en Invalid 
+it Non Valido
+
 # 0xee258 16 7 Squelch
+en Squelch
+it Squelch
+
 # 0xee268 14 6 Normal
+en Normal
+it Normale
+
 # 0xee278 14 6 Number
+en Number
+it Numero
+
 # 0xee288 14 6 Record
+en Record
+in Registrare
+
 # 0xee298 14 6 Record
+en Record
+in Registrare
+
 # 0xee2a8 14 6 Delete
+en Delete
+it Cancella
+
 # 0xee2b8 16 7 Playing
+en Playing
+it Ascolto
+
 # 0xee2c8 16 7 Confirm
+en Confirm
+it Conferma
+
 # 0xee2d8 14 6  Back
+en Back
+it Ritorna
+
 # 0xee2e8 14 6 Always
+en Always
+it sempre
+
 # 0xee2f8 16 7 CH Mode
+en CH Mode
+it Modo Canali
+
 # 0xee308 16 7 MR Mode
+en MR Mode
+it Modo Memorie
+
 # 0xee318 14 6 Manual
+en Manual
+it Manuale
+
 # 0xee328 16 7 CTC/DCS
+en CTC/DCS
+it CTC/DCS
+
 # 0xee338 14 6 Volume
+en Volume
+it Volume
 
 # 0xee348 16 7 Picture
 en Picture
@@ -670,17 +824,47 @@ de Bild
 es Imagen
 it Immaggine
 # 0xee678 14 13 uC/OS-II Idle
+en uC/OS-II Idle
+it uC/OS-II Idle
+
 # 0xee688 13 12 uC/OS-II Tmr
+en uC/OS-II Tmr
+it uC/OS-II Tmr
+
 # 0xee698 13 12 Call Process
+en Call Process
+it Call Process
 # 0xee6a8 13 12 FMTx Process
+en FMTx Process
+it FMTx Process
+
 # 0xee6b8 13 12 Beep Process
+en Beep Process
+it Beep Process
+
 # 0xee6c8 15 14 TimeSlot Inter
+en TimeSlot Inter
+it TimeSlot Inter
+
 # 0xee6d8 13 12 State Change
+en State Change
+it Cambio stato
 
 # 0xee6f7 16 15 \rDFU in HS mode
+en \rDFU in HS mode
+it \rDFU in HS mode
+
 # 0xee708 13 12 00000000010B
+en 00000000010B
+it 00000000010B
+
 # 0xee718 13 12 00000000010C
+en 00000000010C
+it 00000000010C
+
 # 0xee728 14 13 DFU Interface
+en DFU Interface
+it DFU Interface
 
 # 0xeeb28 10 4 Zone
 en Zone
@@ -688,14 +872,17 @@ es Zona
 it Zona
 
 # 0xeeb34 12 5 Saved
+en Saved
 es Guardado
 it Salvato
 
 # 0xeeb40 12 5 Inbox
+en Inbox
 es Entrada
 it Entrata
 
 # 0xeeb4c 12 5 Write
+en Write
 es Escribir
 it Scritto
 
@@ -704,10 +891,12 @@ es Enviar
 it Inviato
 
 # 0xeeb64 10 4 Save
+en Save
 es Guardar
 it Salva
 
 # 0xeeb70 10 4 Sent
+en Sent
 es Enviado
 it Inviato
 
@@ -718,6 +907,7 @@ es Completo
 it Completo
 
 # 0xeeb88 10 4 List
+en List
 es Lista
 it Lista
 
@@ -728,11 +918,13 @@ es Vacio
 it Vuoto
 
 # 0xeeba0 10 4 Edit
+en Edit
 es Editar
 it Editare
 
 # 0xeebac 12 5 Read?
-es Leer?
+en Read?
+s Leer?
 it Leggere?
 
 # 0xeebb8 12 5 Reply
@@ -749,10 +941,12 @@ es Scan
 it Scansione
 
 # 0xeebd0 10 4 None
+en None
 es Ninguno
 it Nessuno
 
 # 0xeebdc 12 5 Power
+en Power
 es Potencia
 it Potenza
 
@@ -838,6 +1032,9 @@ de Name
 es Nombre
 
 # 0xeecfc 12 5 Clear
+en Clear
+it Pulire
+
 # 0xeed08 10 4 Mode
 en Mode
 de Modus
