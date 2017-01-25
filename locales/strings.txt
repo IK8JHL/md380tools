@@ -252,7 +252,6 @@ de Manuelle Wahl
 es Marcado manual
 it Dial manuale
 
-
 # 0xc5ba0 22 10 Call Alert
 en Call Alert
 de Rufalarm
@@ -276,6 +275,8 @@ es Tono Ring
 it Tono Suoner.
 
 # 0xc5c00 24 11 Program Key
+en Program Key
+it Program.Tasto
 
 # 0xc5c18 24 11 Radio Check
 en Radio Check
@@ -651,9 +652,11 @@ it sorgente ID
 # 0xedc6c 18 8 Versions
 en Version
 it Versione
+
 # 0xedc80 18 8 Disabled
 en Disabled
 it Disabilitato
+
 # 0xedc94 18 8 Motorola
 en Motorola
 de Motorola
@@ -701,6 +704,7 @@ it Cancella
 # 0xee158 16 7 Deleted
 en Deleted
 it Cancellato
+
 # 0xee168 14 6 Failed
 en Failed 
 it Fallito
@@ -723,6 +727,7 @@ it Reinviare
 # 0xee1b8 16 7 Ignore?
 en Ignore?
 it Ignora?
+
 # 0xee1c8 16 7 Turn On
 en Turn On
 it Accendi
@@ -730,6 +735,7 @@ it Accendi
 # 0xee1d8 16 7 Current
 en Current
 it Corrente
+
 # 0xee1e8 16 7 Auto On
 en Auto On
 it Auto On
@@ -823,6 +829,7 @@ en Picture
 de Bild
 es Imagen
 it Immaggine
+
 # 0xee678 14 13 uC/OS-II Idle
 en uC/OS-II Idle
 it uC/OS-II Idle
@@ -834,6 +841,7 @@ it uC/OS-II Tmr
 # 0xee698 13 12 Call Process
 en Call Process
 it Call Process
+
 # 0xee6a8 13 12 FMTx Process
 en FMTx Process
 it FMTx Process
@@ -924,7 +932,7 @@ it Editare
 
 # 0xeebac 12 5 Read?
 en Read?
-s Leer?
+es Leer?
 it Leggere?
 
 # 0xeebb8 12 5 Reply
